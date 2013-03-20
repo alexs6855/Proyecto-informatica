@@ -1,4 +1,4 @@
-Proyecto-informatica
+Proyecto-Informática
 ====================
 
 Integrantes
@@ -42,4 +42,4 @@ http://html.rincondelvago.com/alcohol-y-drogas_1.html
 Porcentaje
 ==========
 
-15%
+20%
